@@ -1,0 +1,178 @@
+---
+title: "Projets Européens et Science Ouverte"
+date: 04/09/2024
+author: Damien Belvèze
+format: 
+    revealjs:
+        logo: images/logo_ardoise.png
+        footer: "CC-by:4.0 Damien Belvèze"
+        slide-number: c/t
+#        show-slide-number: # print
+#       show-notes: separate-page
+        embed-resources: true
+        transition: convex
+        from: markdown+emoji
+        theme: [dark, monstyle.css]
+        reveal_plugins: [menu]
+        reveal_options: 
+          menu: 
+            numbers: true
+#  resource-path: ["images"]
+bibliography: references.bib
+csl: nature.csl
+---
+
+# {background-color="#fef1da"}
+
+::::{.columns}
+:::{.column width="50%"}
+<img src="images/finger.gif">
+:::
+:::{.column width="50%"}
+:::{.incremental}
+
+1. Le cadre général de la Science Ouverte
+
+2. Les stratégies de publication
+
+3. L'ouverture des données
+
+4. L'ouverture du code
+
+:::
+:::
+::::
+
+# {background-color="#fef1da"}
+
+::::{.columns}
+:::{.column width="50%"}
+<img src="images/read.gif">
+:::
+:::{.column width="50%"}
+
+<span class="title-font">1. Le cadre général de la Science Ouverte</span>
+
+<span class="opacity">2. Les stratégies de publication</span>
+
+<span class="opacity">3. L'ouverture des données</span>
+
+<span class="opacity">4. L'ouverture du code</span>
+
+:::
+::::
+
+
+#  {background-color="#fef1da"}
+
+1. Levier de croissance
+
+2. Fiabilité des résultats
+
+3. *empowerment*
+
+:notebook: @ministeredelenseignementsuperieuretlarecherchePlanNationalPour2021
+
+:::{.notes}
+« La science ouverte est la diffusion sans entrave des résultats, des méthodes et des produits de la recherche scientifique. Elle s’appuie sur l’opportunité que représente la mutation numérique pour développer l’accès ouvert aux publications et – autant que possible – aux données, aux codes sources et aux méthodes de la recherche. Elle permet à la recherche financée sur fonds publics de conserver la maîtrise des résultats qu’elle produit. Elle construit un écosystème dans lequel la science est plus transparente, plus solidement étayée et reproductible, plus efficace et cumulative. Elle induit une démocratisation de l’accès aux savoirs, utile à l’enseignement, à la formation, à l’économie, aux politiques publiques, aux citoyens et à la société dans son ensemble. Elle constitue enfin un levier pour l’intégrité scientifique et favorise la confiance des citoyens dans la science.
+
+(source: Deuxième Plan National pour la Science Ouverte, 2022)
+:::
+
+
+## Levier de croissance {background-color="#fef1da"}
+
+![](images/open_access_impact.jpg)
+
+:::{.notes}
+Les grandes entreprises font un usage plus important que par le passé des publications ouvertes. D'après des chiffres publiés par Marin Dacos en 2022, l'usage de publications en open access par le Crédit Mutuel est aussi important quantitativement que le téléchargement d'articles en open access de l'ensemble des chercheurs de Lausanne.
+:::
+
+
+## reproductibilité, intégrité {background-color="#fef1da"}
+
+::::{.columns}
+:::{.column width="50%}
+```{=html}
+<video width="400" controls loop>
+<source src="images/invisible_horse.mp4" />
+</video>
+```
+:::
+:::{.column width="50%"}
+
+Première condition de la reproductibilité : 
+
+- accès aux données et au code, 
+- le tout bien documenté
+:::
+::::
+
+## Accès des citoyens à l'information scientifique {background-color="#fef1da"}
+
+::::{.columns}
+:::{.column width="50%"}
+![](images/megabassine.png)
+:::
+:::{.column width="50%"}
+- patients experts
+- usages militants de l'information scientifique
+:::
+::::
+
+# {background-color="#fef1da"}
+
+::::{.columns}
+:::{.column width="50%"}
+<img src="images/read.gif">
+:::
+:::{.column width="50%"}
+
+<span class="opacity">1. Le cadre général de la Science Ouverte</span>
+
+<span class="title-font">2. Les stratégies de publication</span>
+
+<span class="opacity">3. L'ouverture des données</span>
+
+<span class="opacity">4. L'ouverture du code</span>
+
+:::
+::::
+
+# {background-color="#fef1da"}
+
+::::{.columns}
+:::{.column width="50%"}
+<img src="images/read.gif">
+:::
+:::{.column width="50%"}
+
+<span class="opacity">1. Le cadre général de la Science Ouverte</span>
+
+<span class="opacity">2. Les stratégies de publication</span>
+
+<span class="title-font">3. L'ouverture des données</span>
+
+<span class="opacity">4. L'ouverture du code</span>
+
+:::
+::::
+
+# {background-color="#fef1da"}
+
+::::{.columns}
+:::{.column width="50%"}
+<img src="images/read.gif">
+:::
+:::{.column width="50%"}
+
+<span class="opacity">1. Le cadre général de la Science Ouverte</span>
+
+<span class="opacity">2. Les stratégies de publication</span>
+
+<span class="opacity">3. L'ouverture des données</span>
+
+<span class="title-font">4. L'ouverture du code</span>
+
+:::
+::::
