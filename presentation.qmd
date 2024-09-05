@@ -120,6 +120,11 @@ Première condition de la reproductibilité :
 :::
 ::::
 
+## économie d'énergie et de temps {background-color="#fef1da"}
+
+![](images/data_lifecycle.jpg)
+
+
 # {background-color="#fef1da"}
 
 ::::{.columns}
@@ -176,3 +181,6 @@ Première condition de la reproductibilité :
 
 :::
 ::::
+
+# Biblio
+
