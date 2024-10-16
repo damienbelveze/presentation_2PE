@@ -123,7 +123,9 @@ Première condition de la reproductibilité :
 ## économie d'énergie et de temps {background-color="#fef1da"}
 
 ![](images/data_lifecycle.jpg)
-
+:::{.notes}
+cf. Question comprise dans le PGD aussi bien que dans la réponse à l'appel à projet européen (RepAAPE) : allez-vous réutiliser des données déjà disponibles ? 
+:::
 
 # {background-color="#fef1da"}
 
@@ -143,6 +145,56 @@ Première condition de la reproductibilité :
 
 :::
 ::::
+
+## Voie verte {background-color="#fef1da"}
+
+<iframe frameborder="0" height="900" id="publi.general.voies-ouverture.chart-repartition-publications" src="https://barometredelascienceouverte.esr.gouv.fr/integration/fr/publi.general.voies-ouverture.chart-repartition-publications?bsoLocalAffiliation=91D9w&amp;displayComment=false&amp;displayTitle=false&amp;displayFooter=false&amp;endYear=2022&amp;lastObservationYear=2023&amp;startYear=2016&amp;firstObservationYear=2018&amp;useHalId=false" title="publi.general.voies-ouverture.chart-repartition-publications" width="99%"></iframe>
+
+:::{.notes}
+Note sur les 5% uniquement présents sur le site de l'éditeur : ce sont en général des articles publiés en "free" chez l'éditeur, sans licence CC, et dont l'auteur correspondant n'a pas voulu (ou pu) fournir à l'administrateur HAL une version auteur.
+On peut parler ici de "bronze OA"
+
+L'admin HAL dépose en effet systématiquement les fichiers sous licence CC (à l'exception des articles OA d'OpenEdition car le CC s'applique souvent au texte, et pas aux figures). Il y a aussi des liens Unpaywall erronés (ex : fichiers de données supplémentaires), mais ça reste marginal.
+
+:::
+
+## Stratégie de rétention des droits 1/2 {.r-fit-text data-background-color="#fef1da"}
+
+![Stratégie de rétention des droits](images/RightsRetention.png)
+
+
+## Stratégie de rétention des droits 2/2 {background-color="#fef1da"}
+
+::::{.columns}
+:::{.column width="50%"}
+:::{.incremental}
+:white_check_mark: accès immédiat  
+:white_check_mark: encouragé par les financeurs  
+:white_check_mark: démarche simpleà réaliser du côté des chercheurs  
+:::
+:::
+:::{.column width="50%"}
+:::{.incremental}
+:x: opposition de certains éditeurs  
+:x: paiement de charges additionnelles  
+:x: manque de support des universités  
+:x: sacralisation du droit d'auteur en France qui joue contre les auteurs et pour les éditeurs  
+:::
+:::
+::::
+
+
+
+
+## Voie dorée {background-color="#fef1da"}
+
+:::{.incremental}
+- la voie dorée n'implique pas forcément des APC (Article Processing Charges)    
+- Mais le marché rend ces coûts somptuaires (Nature : min 9500$ l'article)   
+- les barrières tombent pour le lecteur et s'érigent devant l'auteur  
+- APC monitorés par le SCD
+- accords Publish and Read passés avec la bibliothèque   
+:::
 
 # {background-color="#fef1da"}
 
